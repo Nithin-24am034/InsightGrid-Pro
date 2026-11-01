@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+ydata-profiling
+setuptools<70.0.0
